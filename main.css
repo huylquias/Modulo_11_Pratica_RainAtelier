@@ -274,6 +274,7 @@ button {
 
     nav li { 
         display: flex;
+        padding: 5px; 
     }
 
     h1 { 

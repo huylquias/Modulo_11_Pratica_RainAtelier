@@ -2,7 +2,7 @@ $(document).ready(function () {
     $('.menu').click(function () {
         $('nav').slideToggle();
     });
-
+    
     $("#leia-mais").click(function(){
         $("#conteudo-extra").slideDown();
         $(this).hide();
