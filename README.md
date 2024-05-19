@@ -68,6 +68,33 @@ As cores escolhidas para o **Rain Atelier** foram selecionadas com o objetivo de
 - **Estética Natural**: Verde oliva para evocar a sensação de naturalidade e artesanato, alinhando-se com a essência dos produtos de macramê.
 
 A combinação dessas cores resulta em um design harmonioso que reflete a essência artesanal e a qualidade dos produtos do **Rain Atelier**.
+
+## 🧩 JavaScript no Projeto Rain Atelier
+
+O JavaScript desempenha um papel fundamental no **Projeto Rain Atelier**, fornecendo funcionalidades interativas e dinâmicas que aprimoram a experiência do usuário. Aqui estão algumas das principais funcionalidades implementadas:
+
+#### 1. Menu Responsivo 🍔
+
+- Utilizando o jQuery, o menu responsivo é ativado por meio do clique no ícone de menu.
+- A função `slideToggle()` é usada para alternar a exibição do menu, proporcionando uma transição suave.
+
+#### 2. Exibição de Conteúdo Adicional 📖
+
+- Ao clicar no link "Leia Mais", o JavaScript controla a exibição do conteúdo adicional relacionado à história da empresa.
+- A função `slideDown()` é acionada para revelar o conteúdo oculto de forma animada, proporcionando uma experiência de usuário mais envolvente.
+- Além disso, a função `slideUp()` é aplicada quando o usuário opta por recolher o conteúdo extra, garantindo uma interação intuitiva e fácil.
+
+#### 3. Animação de Rolagem Suave ⬇️
+
+- Quando o usuário interage com os links "Leia Mais" e "Leia Menos", a página rola suavemente para exibir o conteúdo relevante.
+- Isso é alcançado usando a função `animate()` do jQuery, que ajusta a posição da rolagem vertical da página para o destino desejado em uma animação fluida.
+
+#### 4. Bibliotecas Utilizadas 📚
+
+- O projeto faz uso das bibliotecas jQuery e jQuery Mask Plugin para fornecer funcionalidades adicionais e aprimorar a validação de entrada de dados nos formulários.
+
+O JavaScript no **Rain Atelier** é projetado para melhorar a usabilidade do site, tornando-o mais interativo e envolvente para os usuários. Ele desempenha um papel crucial na criação de uma experiência de usuário dinâmica e agradável, complementando o design e o conteúdo do site de forma eficaz.
+
 ## 🌐 Acesse o Projeto Online
 
 Confira a versão online do projeto no [Vercel](https://rainatelier.vercel.app/).
