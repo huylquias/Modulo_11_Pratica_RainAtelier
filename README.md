@@ -7,7 +7,6 @@
 - **📜 Página Sobre**: Conheça a inspiradora história de Rayane e seu ateliê.
 - **🛍️ Produtos**: Navegue por uma coleção exclusiva de produtos artesanais de macramê.
 - **📄 Detalhes dos Produtos**: Veja descrições detalhadas e imagens de alta qualidade de cada produto.
-- **🛒 Carrinho de Compras**: Adicione seus itens favoritos ao carrinho com um clique.
 
 ## 🗂️ Estrutura do Projeto
 
